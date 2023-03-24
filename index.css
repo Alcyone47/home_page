@@ -283,6 +283,7 @@ h2{
     }
 
     .main{
+        max-width: 600px;
         height: 45vw;
         width: 90vw;
         background-position: bottom center;
