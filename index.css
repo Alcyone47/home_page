@@ -279,6 +279,7 @@ h2{
     .navbar{
         margin-top: 10px;
         width: auto;
+        font-size: 3vw;
     }
 
     .main{
